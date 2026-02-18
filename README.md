@@ -102,9 +102,3 @@ Comparação com `baixa_verificacao`:
 O modelo mostra que aumentar a checagem de fatos reduz fortemente a propagação da desinformação.  
 A melhor estratégia testada foi combinar verificação com alfabetização digital inicial, que minimizou pico e exposição acumulada.  
 Mesmo quando todos os cenários convergem para crentes finais próximos de zero, a diferença real entre políticas está no dano acumulado ao longo do tempo.
-
-## Links
-
-- Repositório: `https://github.com/guilhermesilveiras/cellular-automata`
-- Artigo em Markdown (local): `paper/trabalho_automato_celular.md`
-- Artigo em PDF (versionado): `paper/CELLULAR_AUTOMATA_artigo.pdf`
